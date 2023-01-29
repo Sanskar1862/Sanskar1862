@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Web Projects**
 
-- 💬 Ask me about **C++ JS JAVA**
+- 💬 Ask me about **C++ Python**
 
 - 📫 How to reach me **kumarsanskar2002@gmail.com**
 
