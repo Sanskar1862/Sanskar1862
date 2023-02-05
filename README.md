@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sanskar1862&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&psig=AOvVaw0H2l8ultZVWpiya79Uy4qG&ust=1675661803946000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDku-fU_fwCFQAAAAAdAAAAABAP)" alt="sanskar1862" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **DSA in C++**
