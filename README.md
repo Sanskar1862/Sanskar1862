@@ -1,39 +1,42 @@
 <h1 align="center">Hi 👋, I'm Kumar Sanskar</h1>
-<h3 align="center">Software Development Engineer (SDE) @ Sparkflows | Data Engineering | GenAI</h3>
+<h3 align="center">Software Development Engineer (SDE) @ Sparkflows | Backend | Data Engineering | GenAI</h3>
 
 ---
 
 ### 🚀 About Me
 
 * 💼 **Software Development Engineer (SDE) at Sparkflows**
+* 🧩 Backend-focused engineer building **workflow nodes** used in large-scale data and AI pipelines
+* ⚙️ Writing **production-grade backend code** in **Python** and **Scala**
 * 🧠 Working on **Data Engineering**, **GenAI-powered applications**, and **Agentic AI systems**
-* ⚙️ Building scalable data pipelines using **Apache Spark**, **PySpark**, and **Scala**
-* 🤖 Developing **LLM-driven workflows**, intelligent agents, and AI-assisted analytics
-* 🌱 Continuously exploring **distributed systems**, **AI orchestration**, and **data platforms**
+* 🚀 Building and optimizing distributed systems using **Apache Spark** and **PySpark**
+* 🌱 Exploring **distributed architectures**, **AI orchestration**, and **platform engineering**
 
 ---
 
 ### 💡 Current Tech Focus
 
+* **Backend Node Development**: Workflow nodes, execution logic, schema handling
 * **Data Engineering**: Spark, PySpark, Scala, ETL/ELT pipelines
-* **GenAI Applications**: LLM integrations, prompt engineering, AI workflows
-* **Agentic Apps**: Autonomous agents, tool-using AI systems
-* **Backend & Platforms**: Scalable, production-grade data systems
+* **GenAI Applications**: LLM integrations, AI-driven workflow components
+* **Agentic Apps**: Tool-using agents, autonomous workflow systems
+* **Platforms**: Scalable, production-grade data systems
 
 ---
 
 ### 💬 Ask Me About
 
-* PySpark & Spark (Scala)
+* Backend workflow node development (Python / Scala)
+* Apache Spark & PySpark internals
 * Data pipeline design & optimization
-* GenAI application development
-* Agent-based AI systems
+* GenAI + data system integration
+* Agent-based AI architectures
 
 ---
 
 ### 📫 How to Reach Me
 
-* 📧 Email: **[kumarsanskar2002@gmail.com](kumarsanskar2002@gmail.com)**
+* 📧 Email: **[kumarsanskar2002@gmail.com](mailto:kumarsanskar2002@gmail.com)**
 * 💼 LinkedIn: [Kumar Sanskar](https://linkedin.com/in/kumar-sanskar-618009222)
 
 ---
