@@ -33,7 +33,7 @@
 
 ### 📫 How to Reach Me
 
-* 📧 Email: **[yourname@gmail.com](kumarsanskar2002@gmail.com)**
+* 📧 Email: **[kumarsanskar2002@gmail.com](kumarsanskar2002@gmail.com)**
 * 💼 LinkedIn: [Kumar Sanskar](https://linkedin.com/in/kumar-sanskar-618009222)
 
 ---
